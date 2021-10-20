@@ -1,0 +1,14 @@
+.first, 
+.second {
+    font-size: 30px;
+    border: 3px solid gray;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}

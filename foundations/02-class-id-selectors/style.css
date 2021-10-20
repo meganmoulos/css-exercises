@@ -1,0 +1,18 @@
+.coral {
+    background-color: #ffb39e;
+}
+
+#blue_single {
+    color: #0033ff;
+    font-size: 40px;
+}
+
+#green_single {
+    background-color: #00ff48;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.coral.larger {
+    font-size: 30px;
+}
